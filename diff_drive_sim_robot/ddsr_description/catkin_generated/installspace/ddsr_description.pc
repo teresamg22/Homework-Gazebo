@@ -1,0 +1,8 @@
+prefix=/home/teresa/uvic_int_rosws/install
+
+Name: ddsr_description
+Description: Description of ddsr_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/teresa/uvic_int_rosws/install/lib 
+Requires: 

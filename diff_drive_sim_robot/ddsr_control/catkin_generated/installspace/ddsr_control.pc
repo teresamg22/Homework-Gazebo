@@ -1,0 +1,8 @@
+prefix=/home/teresa/uvic_int_rosws/install
+
+Name: ddsr_control
+Description: Description of ddsr_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/teresa/uvic_int_rosws/install/lib 
+Requires: controller_manager ddsr_gazebo ddsr_description

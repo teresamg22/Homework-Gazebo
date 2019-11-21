@@ -1,0 +1,8 @@
+prefix=/home/teresa/uvic_int_rosws/install
+
+Name: ddsr_gazebo
+Description: Description of ddsr_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/teresa/uvic_int_rosws/install/lib 
+Requires: ddsr_description gazebo_ros
